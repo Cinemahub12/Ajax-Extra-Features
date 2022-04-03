@@ -11,7 +11,7 @@ class script(object):
 <b>✮ ᴅᴀᴛᴀ ʙᴀsᴇ: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ ʙᴏᴛ sᴇʀᴠᴇʀ: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: 𝚅1.0.43</b>
-<b>✮ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: @bastin_joe</b>"""
+<b>✮ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: @oreoolspecialone</b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -78,7 +78,7 @@ Note:- Give a user details
 
 <b>ᴊᴏɪɴ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ</b>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https:https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/moviesrockenroll>moviesrockenroll</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
@@ -103,7 +103,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https:https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/moviesrockenroll>moviesrockenroll</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
@@ -197,7 +197,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/cinemahub00)</code>
+<code>[Button Text](buttonurl:https://t.me/moviesrockenroll)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
